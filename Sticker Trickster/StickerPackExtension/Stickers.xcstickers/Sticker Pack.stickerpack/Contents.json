@@ -1,4 +1,33 @@
 {
+  "stickers" : [
+    {
+      "filename" : "Sticker_Camel.sticker"
+    },
+    {
+      "filename" : "Sticker_Dragon.sticker"
+    },
+    {
+      "filename" : "Sticker_Elephant.sticker"
+    },
+    {
+      "filename" : "Sticker_Manatee.sticker"
+    },
+    {
+      "filename" : "Sticker_Panda.sticker"
+    },
+    {
+      "filename" : "Sticker_Troll.sticker"
+    },
+    {
+      "filename" : "Sticker_Octopus.sticker"
+    },
+    {
+      "filename" : "Sticker_Bunny.sticker"
+    },
+    {
+      "filename" : "Sticker_Swimmer.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
